@@ -6,7 +6,7 @@ This project is a simple web-based random password generator. It allows users to
 
 This project consists of an HTML, CSS, and JavaScript implementation of a password generator. The JavaScript code generates a random password based on a predefined set of characters. The user can then copy the generated password to their clipboard.
 
-## project link:
+## project link:https://chilaka-eswari.github.io/Random-Password-Generator/
 
 ## Features
 
